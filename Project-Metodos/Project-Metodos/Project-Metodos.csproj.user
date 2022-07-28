@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CostoAnualAlmacenar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CostoAnualPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventarioPromedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventarioSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ISCostoTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
